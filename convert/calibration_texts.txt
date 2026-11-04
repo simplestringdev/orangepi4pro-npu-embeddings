@@ -1,0 +1,93 @@
+The router restarts every night at three in the morning, and after that the connection comes back slower than before. We checked the logs and found that the firmware writes a new configuration file each time, which fills the small flash memory until the device has to clear it.
+
+Para instalar o sistema no cartão de memória, baixe a imagem oficial, grave com um programa de gravação e confira o resultado antes de ligar a placa. Se o primeiro boot demorar, espere alguns minutos: o sistema expande a partição e gera as chaves de acesso remoto.
+
+La receta lleva tres huevos, una taza de harina, media taza de azúcar y una cucharada de levadura. Se mezclan primero los ingredientes secos, luego se añaden los huevos batidos, y se hornea durante treinta minutos a ciento ochenta grados hasta que la superficie quede dorada.
+
+In 1969 the first message was sent over a network that would later become the internet. It consisted of only two letters before the system crashed, and nobody present imagined that the same idea would eventually connect billions of devices around the world.
+
+Ontem à noite choveu muito e a rua ficou alagada perto da padaria. Os vizinhos se ajudaram a retirar os móveis do térreo e, de manhã, a prefeitura mandou um caminhão para limpar o bueiro que estava entupido há semanas.
+
+The function receives a list of integers and returns the largest sum of any contiguous sublist. It runs in linear time because it keeps only the best sum ending at the current position and the best sum seen so far, instead of checking every possible pair of boundaries.
+
+El contrato de alquiler establece que el inquilino debe avisar con treinta días de antelación si desea terminar el acuerdo. Además, la fianza se devuelve en un plazo de un mes, siempre que la vivienda se entregue en buen estado y sin deudas pendientes de suministros.
+
+A fotossíntese é o processo pelo qual as plantas transformam luz, água e gás carbônico em açúcares e oxigênio. Ela acontece principalmente nas folhas, dentro de estruturas chamadas cloroplastos, que contêm a clorofila responsável pela cor verde.
+
+Please remember to back up your data before upgrading. The installer will not touch your documents, but a failed power supply during the process can corrupt the disk, and recovering files afterwards is much harder than restoring them from a copy.
+
+Para o treino de corrida, comece com caminhadas rápidas alternadas com trotes curtos, três vezes por semana. Aumente o tempo aos poucos, beba água durante o dia e descanse pelo menos um dia entre as sessões para o corpo se recuperar.
+
+The museum opens at nine and closes at five, except on Mondays. Tickets can be bought online or at the entrance, and children under twelve enter for free when accompanied by an adult. Photography is allowed in most rooms but flash is not.
+
+El servidor devuelve un error cuando la petición supera el tamaño máximo permitido. Para solucionarlo, divide el archivo en partes más pequeñas y súbelas una a una, o aumenta el límite en la configuración si controlas el servidor.
+
+Meu avô contava que, quando era criança, andava quatro quilômetros a pé até a escola, atravessando um rio numa canoa velha. Dizia que aprendeu a ler com um jornal emprestado e que guardava cada letra como quem guarda uma moeda rara.
+
+A battery loses capacity faster when it is kept fully charged and hot. Storing it at about half charge in a cool place and avoiding deep discharges can double its useful life, which is why many phones now offer a setting that stops charging at eighty percent.
+
+La reunión del consejo se aplazó hasta el próximo martes porque faltaban dos miembros. Mientras tanto, se pidió a los responsables de cada área que enviaran un resumen de las cifras del trimestre para revisarlas con calma antes de votar el presupuesto.
+
+Para configurar o backup automático, crie um agendamento diário no horário em que o computador costuma estar ligado. Escolha uma pasta de destino em outro disco, ative a verificação dos arquivos copiados e defina quantas versões antigas devem ser mantidas.
+
+The old lighthouse stands on a rocky point at the edge of the bay. For more than a century its light guided fishing boats home through the fog, and today volunteers keep the lamp working so that visitors can climb the stairs and see the coast.
+
+Si el motor hace un ruido extraño al arrancar en frío, conviene revisar el nivel de aceite y el estado de la correa. Ignorar el síntoma puede convertir una reparación barata en una avería grave, sobre todo en los meses de más calor.
+
+O banco de dados guarda cada pedido numa tabela e cada cliente em outra, ligadas por um identificador. Quando o relatório fica lento, o primeiro passo é conferir se existem índices nas colunas usadas nos filtros e nas junções.
+
+Climate scientists measure the temperature of the oceans with floating sensors that dive to two thousand meters and rise again every ten days. The data show that the water has absorbed most of the extra heat trapped by greenhouse gases over the last decades.
+
+La abuela preparaba el café por la mañana en una cafetera de hierro y lo servía con pan casero. Los niños se sentaban alrededor de la mesa de madera y escuchaban sus historias del pueblo, mientras afuera empezaba a clarear el día.
+
+Se você esqueceu a senha, use a opção de recuperação na tela de entrada. Um código será enviado ao e-mail cadastrado e, depois de confirmá-lo, você poderá escolher uma senha nova. Evite reutilizar senhas antigas ou muito parecidas com elas.
+
+The committee reviewed forty applications and selected twelve for the final round. Each candidate will present for ten minutes and answer questions for another ten, and the decision will be announced by email within two weeks after the last interview.
+
+El tren sale de la estación central a las siete y diez y llega al puerto en menos de dos horas. Conviene comprar el billete con antelación en temporada alta, porque los asientos junto a la ventana se agotan pronto y no hay devolución.
+
+Em um ecossistema saudável, predadores e presas mantêm um equilíbrio frágil. Quando uma espécie desaparece, as demais sentem o efeito: algumas se multiplicam sem controle, outras perdem o alimento, e a paisagem inteira pode mudar em poucos anos.
+
+To keep the fan quiet, lower the maximum speed in the settings and clean the dust from the vents every few months. A can of compressed air works well, but hold the blades still so they do not spin too fast and damage the bearings.
+
+La Constitución garantiza la libertad de expresión, pero también establece límites cuando se trata de proteger los derechos de otras personas. Los tribunales deben ponderar cada caso, analizando el contexto y la intención de quien se manifiesta.
+
+Mix the paint thoroughly before using it, and apply two thin coats rather than one thick coat. Let the first layer dry completely, which takes about four hours in warm weather, then sand lightly to remove any bumps before the second pass.
+
+O festival de música reúne bandas de vários estados durante três dias na praça da cidade. Há barracas de comida típica, oficinas para as crianças e um palco aberto onde qualquer pessoa pode se inscrever para tocar por quinze minutos.
+
+El algoritmo ordena los elementos dividiendo la lista en mitades, ordenando cada mitad y combinándolas después. Su coste crece de forma moderada con el tamaño de los datos, por lo que resulta adecuado incluso para colecciones de millones de registros.
+
+When the package arrives, check the box for damage before signing the delivery form. If something is broken, take photos immediately and contact the seller within forty-eight hours, because the refund policy does not cover claims made later than that.
+
+A maratona percorre as principais avenidas da cidade e termina no parque central. Os atletas largam em ondas para evitar aglomeração e há pontos de hidratação a cada cinco quilômetros, com voluntários distribuindo água e frutas.
+
+The vaccine trains the immune system to recognize a harmless piece of the virus, so that the body can respond quickly if it meets the real thing. Side effects such as a sore arm or a mild fever usually pass within a day or two.
+
+Para cultivar tomates em vaso, escolha um recipiente com pelo menos trinta centímetros de profundidade e furos no fundo. Coloque a planta em um lugar com sol direto durante boa parte do dia e regue quando a terra da superfície estiver seca.
+
+El arquitecto propuso un edificio de cristal y acero con un jardín en la azotea, pensado para aprovechar la luz natural y reducir el consumo de energía. Los vecinos pidieron cambios en la altura, para que la nueva construcción no tapara el sol de la plaza.
+
+Open the terminal, move to the project folder, and run the build command. If an error mentions a missing library, install it with your package manager and try again; the message usually names the exact package that is required.
+
+A professora pediu que os alunos escrevessem uma carta para alguém que admiram. Alguns escolheram parentes, outros escritores ou cientistas, e no final da aula cada um leu um trecho em voz alta, entre risos e um pouco de timidez.
+
+Interest rates affect almost every part of the economy. When they rise, loans become more expensive and spending usually slows down, while savers earn more on their deposits; when they fall, the opposite tends to happen.
+
+El perro se escapó del jardín al abrirse la puerta y corrió hacia el parque. Después de media hora de búsqueda, lo encontraron jugando con otros perros junto a la fuente, completamente feliz y cubierto de barro de la cabeza a las patas.
+
+O aplicativo envia uma notificação sempre que há uma atualização importante. Para reduzir o excesso de avisos, abra as configurações, escolha as categorias que interessam e desative o resto, ou defina um horário de silêncio durante a noite.
+
+The explorer crossed the desert with three camels and a small supply of dates and water. He kept a diary of the stars, noting their positions every night, and thanks to those notes the later expeditions were able to find the same wells.
+
+Antes de assinar o contrato, leia com atenção as cláusulas de rescisão e de reajuste. Se algo não estiver claro, peça esclarecimentos por escrito, porque as promessas feitas apenas de forma verbal costumam ser difíceis de comprovar depois.
+
+La película cuenta la historia de dos hermanos que heredan una pequeña librería en una ciudad costera. Entre estantes polvorientos y clientes curiosos, descubren cartas antiguas que cambian lo que creían saber sobre su familia.
+
+A computer stores everything as numbers, and a color is just three of them: how much red, green, and blue. Mixing the three at full strength gives white, while setting all of them to zero gives black, with every other color in between.
+
+Quem viaja de avião deve chegar ao aeroporto com antecedência suficiente para despachar a bagagem e passar pela segurança. Em voos internacionais, recomenda-se chegar três horas antes e conferir se o passaporte tem pelo menos seis meses de validade.
+
+Después de la tormenta, el río subió más de dos metros y arrastró ramas y troncos hasta el puente. Los bomberos cortaron el tráfico y revisaron la estructura antes de permitir que los coches volvieran a pasar con normalidad.
+
+The recipe for good bread is mostly patience. Flour, water, salt, and a little yeast are enough, but the dough needs hours to rest and rise slowly, which builds the flavor and gives the crumb its open, irregular texture.

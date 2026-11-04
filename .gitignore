@@ -1,0 +1,12 @@
+# Models and build products are large and have their own licenses: never commit them.
+*.nb
+*.onnx
+*.safetensors
+*.npy
+*.dat
+*.quantize
+build/
+wksp/
+__pycache__/
+.pytest_cache/
+*.egg-info/

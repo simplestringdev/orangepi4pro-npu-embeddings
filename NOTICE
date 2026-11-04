@@ -1,0 +1,9 @@
+Third-party material (NOT included in this repository)
+
+- Model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2, Apache License 2.0
+  (license as shown on its Hugging Face model card). If you redistribute a converted/compiled form of the
+  weights (for example an NBG .nb file), keep the license text and attribution and state that it was modified.
+- Allwinner / Vivante NPU toolchain (ACUITY toolkit, its Docker image, VIPLite headers and libraries): proprietary
+  or vendor-licensed. This repository does not contain or redistribute any of it. Its license terms were NOT
+  reviewed by the authors; read them before redistributing anything that the toolchain generated.
+- Hugging Face `tokenizers`, `numpy`: their own licenses.

@@ -1,0 +1,17 @@
+# User service: keeps the NPU model loaded and serves embeddings on $XDG_RUNTIME_DIR/npu-embed.sock.
+# Install:  install -Dm644 systemd/npu-embed.service ~/.config/systemd/user/npu-embed.service
+#           systemctl --user daemon-reload && systemctl --user enable --now npu-embed.service
+#           loginctl enable-linger $USER      # so it starts at boot without a login
+[Unit]
+Description=NPU embeddings server (Orange Pi 4 Pro, VIPLite)
+ConditionPathExists=/dev/vipcore
+
+[Service]
+ExecStartPre=/usr/bin/test -f %h/.cache/npu-embed/minilm_int16.nb
+ExecStart=%h/.local/bin/npu_embed_server %h/.cache/npu-embed/minilm_int16.nb %t/npu-embed.sock
+Restart=on-failure
+RestartSec=10
+MemoryMax=256M
+
+[Install]
+WantedBy=default.target
